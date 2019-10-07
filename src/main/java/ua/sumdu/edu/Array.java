@@ -6,6 +6,7 @@ public class Array {
 
     public static void main(String[] args) {
         int [] mas = {11, 3, 14, 16, 7};
+        sayHello ();
         System.out.println(Arrays.toString(mas));
         boolean isSorted = false;
         int buf;
@@ -23,5 +24,9 @@ public class Array {
         }
         System.out.println(Arrays.toString(mas));
 
+    }
+
+    public static void sayHello () {
+        System.out.println("Hi!");
     }
 }
