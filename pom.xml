@@ -15,7 +15,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.berest.oleg.Main</mainClass>
+                            <mainClass>ua.sumdu.edu.Array</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
